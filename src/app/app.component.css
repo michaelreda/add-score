@@ -1,28 +1,4 @@
 iframe {
-  position: absolute;
-  top: -260px;
-  /* bottom: -100px; */
   width: 100%;
   height: 2000px;
-  /* pointer-events: none; */
-}
-
-.overlay {
-  height: 100%;
-  width: 100%;
-  position: fixed;
-}
-
-.container {
-  height: calc(2000px - 350px);
-  overflow: hidden;
-  position: relative;
-}
-
-.hide-ad {
-  height: 300px;
-  width: 100%;
-  background: #ffffff;
-  position: absolute;
-  bottom: 0px;
 }
